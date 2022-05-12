@@ -37,3 +37,5 @@ server.py是带有GPS模块的服务端脚本(若你的设备没有GPS请运行s
 ## 注意事项
 
 如果不想适用CUDA加速,或者电脑没有安装NVDIA独立显卡,请在unet.py中将CUDA设置为False
+
+低技术力屑作,如有问题请在ISSUE中指出
