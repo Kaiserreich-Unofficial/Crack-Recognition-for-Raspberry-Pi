@@ -1,5 +1,5 @@
 # Crack-Recognition-for-Raspberry-Pi
-这是一个为树莓派编写的裂缝识别脚本，基于bubbliiiing的Resnet50网络
+这是一个为树莓派编写的裂缝识别程序，语义分解部分基于bubbliiiing的Resnet50网络，带有一个监控前端
 ## 源码地址
 https://github.com/bubbliiiing/unet-pytorch
 ## 系统环境
